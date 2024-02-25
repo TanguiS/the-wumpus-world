@@ -10,3 +10,8 @@ WUMPUS
 
     python wumpus.py -a RationalAgent -w 10 -g 2
     # (_with a 10x10 world with random seed 2_)
+
+# CC
+
+Matéo Ducastel
+Tangui Steimetz
